@@ -1,1 +1,1 @@
-Unlike most of the files in this repo this folder contains device panels and presets - the reason is loading fromthe preset ensures the GRM plugin loads with the size it was saved at, so if you prefer an expanded GUI use the preset, if not just use the device file
+Unlike most of the files in this repo this folder contains device panels and presets - the reason is loading from the preset ensures the GRM plugin loads with the size it was saved at, so if you prefer an expanded GUI use the preset, if not just use the device file
