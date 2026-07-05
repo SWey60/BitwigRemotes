@@ -1,5 +1,5 @@
 # BitwigRemotes
-A repository for Bitwig device remote control mappings
+A repository for Bitwig device remote control mappings.
 Unzip and place in one of these:
 
 \Users\username\Documents\Bitwig Studio\Library\.settings\devices (Mac)
