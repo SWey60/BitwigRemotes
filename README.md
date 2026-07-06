@@ -123,7 +123,8 @@ Go to your `devices` folder (paths above, remember it's hidden). The newest `vst
 
 > **Which folder is which plugin?** If it's ambiguous, sort by modified date - the one you
 > just saved is newest. For VST2 you can also decode the hex: `vst-46536174` →
-> `46536174` is hex for the ASCII `FSat` (FabFilter Saturn).
+> `46536174` is hex for the ASCII `FSat` (FabFilter Saturn). Only CLAP plugins have the
+> plugin name in an unobfuscated form 
 
 ### 3. Zip it, keeping the folder
 
