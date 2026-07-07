@@ -94,7 +94,8 @@ hand; you create and tweak it inside Bitwig (see [Contributing](#contributing-ad
 5. **Restart Bitwig** (or reopen the plugin). Load the plugin and its remote controls
    panel appears automatically.
 
-
+Controls made in later versions of Bitwig are not backwards compatible, so if a remote control 
+doesn't work it may have been made in a more recent version of Bitwig than you have
 ---
 
 ## Contributing: add your own
