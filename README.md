@@ -94,7 +94,7 @@ hand; you create and tweak it inside Bitwig (see [Contributing](#contributing-ad
 5. **Restart Bitwig** (or reopen the plugin). Load the plugin and its remote controls
    panel appears automatically.
 
-Controls made in later versions of Bitwig are not backwards compatible, so if a remote control 
+   NB: Controls made in later versions of Bitwig are not backwards compatible, so if a remote control 
 doesn't work it may have been made in a more recent version of Bitwig than you have
 ---
 
@@ -143,7 +143,7 @@ On Windows: right-click the `vst-…` folder → *Send to → Compressed (zipped
 
 - **File name:** `<Readable Plugin Name> <device-id>.zip`
   e.g. `FabFilter Saturn vst-46536174.zip`. Including the plugin **format** helps
-  (`... VST3.zip`, `... CLAP.zip`) since the same plugin has different IDs per format.
+  (`... VST3.zip`, `... CLAP.zip`) since the same plugin has different IDs per format. Including the remote control ID number is also recommended so you can locate the original if you ever need to without having to unzip it
 - **Folder:** drop it in the matching manufacturer folder (`FabFilter/`, `uhe/`, …). If
   there's no obvious home, use the appropriate `Misc …` folder by type
   (`Misc Effects VST3`, `Misc Synth VST3`, `Misc Effects CLAP`, etc.).
