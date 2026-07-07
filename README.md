@@ -164,8 +164,9 @@ required.
 ### Contribution guidelines
 
 - **One plugin per zip**, folder preserved inside the archive.
-- **Don't overwrite** an existing panel unless yours is clearly better - if in doubt, note
-  the difference in your PR and let the maintainer decide.
+- **Don't ever overwrite** an existing panel even if you think yours is better, different authors have different needs
+- and approaches but one is not necesarily better than others - if in doubt, note the difference in your PR and let the
+- maintainer decide or just give it a different filename (eg with your initials in it).
 - **Only share the mapping.** `.bwremotecontrols` files contain remote-control layouts, not
   the plugin itself or any licensed presets - no copyrighted plugin content, please.
 - Keep names consistent with the existing files so the collection stays browsable.
