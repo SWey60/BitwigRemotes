@@ -147,6 +147,7 @@ On Windows: right-click the `vst-…` folder → *Send to → Compressed (zipped
 - **Folder:** drop it in the matching manufacturer folder (`FabFilter/`, `uhe/`, …). If
   there's no obvious home, use the appropriate `Misc …` folder by type
   (`Misc Effects VST3`, `Misc Synth VST3`, `Misc Effects CLAP`, etc.).
+  If there is an existing mapping for the same plugin that is fine as yours may have a different take on layout, but do not ovewrite anything, instead add an initial or date to the end of the filename eg Entanglement VST3 vst3-ABCDEF019182FAEB4442424444423031 SW.zip or Entanglement VST3 vst3-ABCDEF019182FAEB4442424444423031 dd_mm_yr.zip
 
 ### 5. Open a Pull Request
 
@@ -165,8 +166,7 @@ required.
 
 - **One plugin per zip**, folder preserved inside the archive.
 - **Don't ever overwrite** an existing panel even if you think yours is better, different authors have different needs
-- and approaches but one is not necesarily better than others - if in doubt, note the difference in your PR and let the
-- maintainer decide or just give it a different filename (eg with your initials in it).
+- and approaches but one is not necesarily better than others - if in doubt, note the difference in your PR and let the maintainer decide or just give it a different filename (eg with your initials in it).
 - **Only share the mapping.** `.bwremotecontrols` files contain remote-control layouts, not
   the plugin itself or any licensed presets - no copyrighted plugin content, please.
 - Keep names consistent with the existing files so the collection stays browsable.
