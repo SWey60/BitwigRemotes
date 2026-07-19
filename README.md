@@ -179,7 +179,7 @@ required.
   [Device panel sharing thread @ KVR](https://www.kvraudio.com/forum/viewtopic.php?t=480998)
 - **Other community collections** referenced in the thread:
   - [lxegs/bitwig](https://github.com/lxegs/bitwig)
-  - GoatGirl, strovoknights and DrSyncenstein (links in the KVR thread)
+  - GoatGirl, strovoknights and DrSyncenstein (links in the KVR thread) - DrSyncenstein is now also collaborating in developing this Repo
 
 Contributions welcome - the whole point of this collection is that, together, the community
 can eventually cover every plugin worth mapping.
