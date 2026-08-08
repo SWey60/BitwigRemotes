@@ -180,6 +180,7 @@ required.
 - **Other community collections** referenced in the thread:
   - [lxegs/bitwig](https://github.com/lxegs/bitwig)
   - GoatGirl, strovoknights and DrSyncenstein (links in the KVR thread) - DrSyncenstein is now also collaborating in developing this Repo
+  - Added a large collection of remotes thanks to Sekops (collected from KvR thread)
 
 Contributions welcome - the whole point of this collection is that, together, the community
 can eventually cover every plugin worth mapping.
